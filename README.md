@@ -1,5 +1,5 @@
 # Tenda-4G03-Reconnect
-A shitty way to reconnect your 4G03 modem
+A shitty way to reconnect your 4G03 modem using python and selenium.
 # Dependency
 ```bash
 sudo apt install chromium-chromedriver
